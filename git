@@ -1,0 +1,14 @@
+git is the versoning control system
+it used to version the system
+by working directory
+staging area
+local repo
+then finaly 
+remote repo
+
+commands
+working directory to stageing area git add
+staging area to local repo git commit -m "name"
+local repo to remote repo git push master name remote repo url
+inbetween we can user general command
+git status, git log, git show, git log --oneline, etc.
