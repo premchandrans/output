@@ -9,6 +9,9 @@ remote repo
 commands
 working directory to stageing area git add
 staging area to local repo git commit -m "name"
-local repo to remote repo git push master name remote repo url
+local repo to remote repo  1st git remote add name url of remote repo
+then git push name master 
+it will ask username: give github name
+passwrod will generate as token in git hub, take and put it in therminal. your code will push to hub.
 inbetween we can user general command
 git status, git log, git show, git log --oneline, etc.
